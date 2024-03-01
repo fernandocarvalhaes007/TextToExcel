@@ -1,4 +1,5 @@
-# Script to transform text into excel
+# Script para transformar arquivo de texto em excel
+
 
 ## Preconditions:
 
