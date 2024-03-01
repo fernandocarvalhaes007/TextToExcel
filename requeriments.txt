@@ -1,0 +1,4 @@
+Python == 3.12.2
+Pandas == 2.2.1
+openpyxl == 3.1.2
+datetime == 69.1.1
